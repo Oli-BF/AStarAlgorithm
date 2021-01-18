@@ -26,7 +26,7 @@
 ## Testing
 * There are 8 tests split up into two groups; Incorrect Mazes and Custom Mazes. The incorrect mazes group tests to make sure the correct message is shown when the inputted maze is incorrect in some form. The custom mazes group tests three mazes of increasing size that I randomly generated. Once again, the tests check to see if the correct NSEW directions are given. The increased size of the custom mazes allowed me to see whether my algorithm could still find the correct path through much more complex mazes as well as if it could complete it in a reasonable time.
 ---
-## How to Build, Run and Test
+## How to Run and Test
 * Unzip the 'AStarAlgorithm' folder into preferred location.
 * Open terminal within the 'MazePathfindingAlgorithm' folder.
 * Run the command 'dotnet run' followed by the location of the .txt maze file you would like to run i.e. 'dotnet run Mazes/custom_maze_1.txt'.
