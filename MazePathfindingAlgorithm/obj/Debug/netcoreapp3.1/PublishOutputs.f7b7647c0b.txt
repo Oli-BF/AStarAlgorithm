@@ -1,0 +1,5 @@
+C:\Users\olive\source\repos\PlaygroundGamesEngineeringTest\MazePathfindingAlgorithm\bin\Debug\netcoreapp3.1\publish\MazePathfindingAlgorithm.exe
+C:\Users\olive\source\repos\PlaygroundGamesEngineeringTest\MazePathfindingAlgorithm\bin\Debug\netcoreapp3.1\publish\MazePathfindingAlgorithm.dll
+C:\Users\olive\source\repos\PlaygroundGamesEngineeringTest\MazePathfindingAlgorithm\bin\Debug\netcoreapp3.1\publish\MazePathfindingAlgorithm.deps.json
+C:\Users\olive\source\repos\PlaygroundGamesEngineeringTest\MazePathfindingAlgorithm\bin\Debug\netcoreapp3.1\publish\MazePathfindingAlgorithm.runtimeconfig.json
+C:\Users\olive\source\repos\PlaygroundGamesEngineeringTest\MazePathfindingAlgorithm\bin\Debug\netcoreapp3.1\publish\MazePathfindingAlgorithm.pdb

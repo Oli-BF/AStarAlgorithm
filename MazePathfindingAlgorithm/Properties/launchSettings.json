@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MazePathfindingAlgorithm": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\olive\\source\\repos\\AStarAlgorithm\\MazePathfindingAlgorithm\\Mazes\\custom_maze_1.txt"
+    }
+  }
+}
