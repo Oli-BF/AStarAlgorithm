@@ -1,7 +1,7 @@
 # A Star Algorithm
 ---
 ## Assumptions
-* Throughout my implementation I tried to use the most efficient means possible, to improve the performance of the algorithm. Although LINQ is used a couple of times, its use was not preferred, as although it can improve code readability, it is often at the sacrifice of performance. A SimplePriorityQueue (third party data structure - see references) was used for the Open Queue to improve performance and a HashSet was implemented for the Close Queue, which vastly improves the performance, especially when larger mazes are attempted.
+* Throughout my implementation I tried to use the most efficient means possible; to improve the performance of the algorithm. Although LINQ is used a couple of times, its use was not preferred, as although it can improve code readability, it is often at the sacrifice of performance. A SimplePriorityQueue (third party data structure - see references) was used for the Open Queue to improve performance and a HashSet was implemented for the Close Queue, which vastly improves the performance, especially when larger mazes are attempted.
 ---
 ## Algorithm Summary
 * For full details please see code comments
@@ -31,6 +31,7 @@
 * Open terminal within the 'MazePathfindingAlgorithm' folder.
 * Run the command 'dotnet run' followed by the location of the .txt maze file you would like to run i.e. 'dotnet run Mazes/custom_maze_1.txt'.
 * Testing: Open terminal within the 'MazePathfindingAlgorithmTests' folder and run 'dotnet test'.
+* If you wish to create your own mazes, please look at how the provided mazes are set out.
 ---
 ## References
 * Data Structure Library - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp
